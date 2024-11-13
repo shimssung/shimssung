@@ -1,6 +1,8 @@
 <img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 
-👋저는 프론트엔드와 백엔드 개발에 열정을 가지고 있는 개발자입니다. React와 Spring Boot를 주로 사용하며, 사용자 경험을 개선하고 시스템 성능을 최적화하는 데 중점을 두고 있습니다. 새로운 기술을 배우고, 다양한 프로젝트를 통해 성장하고 있습니다. 
+👋 Hello! I’m a junior full-stack developer passionate about creating dynamic, user-centered web applications. I enjoy exploring both front-end and back-end technologies to build practical, efficient, and impactful solutions. My goal is to continue developing my skills and contribute to projects that provide positive value to users.
+
+💡 I enjoy the challenge of both designing user interfaces and managing server-side logic. Through these diverse tasks, I love developing functional applications.
 
 ## 💪 Skills
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
