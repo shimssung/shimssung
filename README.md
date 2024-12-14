@@ -15,8 +15,8 @@
 ## 🛠 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
 
-### 메신저
-<img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+// ### 메신저
+// <img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 
 
 
