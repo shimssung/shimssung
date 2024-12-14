@@ -5,6 +5,9 @@ A developer who thinks, researches, creates, and coonects to practical realizati
 
 🔗 I also write about my development journey and share what I learn on my [Velog](https://velog.io/@shimssung/posts). Feel free to check it out! [![Velog Badge](https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@shimssung/posts)
 
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimssung&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+
 
 ## 💪 Skills
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-EF2D5E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4gPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNGRjAzMDgiIC8+IDx0ZXh0IHg9IjE1IiB5PSI2NSIgc3R5bGU9ImZpbGw6IHdoaXRlOyBmb250LXNpemU6NDBweDsgZm9udC1mYW1pbHk6QXJpYWwsIHNhbnMtc2VyaWYiPiBNQkkgPC90ZXh0Pjwvc3ZnPg==&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
