@@ -2,9 +2,7 @@
 
 💡 I enjoy the challenge of both designing user interfaces and managing server-side logic. Through these diverse tasks, I love developing functional applications.
 
-🔗 I also write about my development journey and share what I learn on my [Velog](https://velog.io/@shimssung/posts). Feel free to check it out!
-
-[![Velog Badge](https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@shimssung/posts)
+🔗 I also write about my development journey and share what I learn on my [Velog](https://velog.io/@shimssung/posts). Feel free to check it out![![Velog Badge](https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@shimssung/posts)
 
 
 ## 💪 Skills
