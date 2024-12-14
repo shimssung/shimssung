@@ -1,4 +1,6 @@
 <img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+## ✨ Check out my Velog!
+[![Velog Badge](https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@shimssung/posts)
 
 👋 Hello! I’m a junior full-stack developer passionate about creating dynamic, user-centered web applications. I enjoy exploring both front-end and back-end technologies to build practical, efficient, and impactful solutions. My goal is to continue developing my skills and contribute to projects that provide positive value to users.
 
