@@ -1,6 +1,3 @@
-## ✨ Check out my Velog!
-[<img src="https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@shimssung/posts)
-
 👋 Hello! I’m a junior full-stack developer passionate about creating dynamic, user-centered web applications. I enjoy exploring both front-end and back-end technologies to build practical, efficient, and impactful solutions. My goal is to continue developing my skills and contribute to projects that provide positive value to users.
 
 💡 I enjoy the challenge of both designing user interfaces and managing server-side logic. Through these diverse tasks, I love developing functional applications.
