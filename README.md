@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
-
 ## ✨ Check out my Velog!
 [<img src="https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@shimssung/posts)
 
@@ -17,6 +15,8 @@
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
 
+---
+<img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 
 
 
