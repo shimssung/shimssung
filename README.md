@@ -1,5 +1,6 @@
 <img src="https://img.shields.io/badge/-shimssung@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 ## ✨ Check out my Velog!
+<img src="https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white"/>
 [![Velog Badge](https://img.shields.io/badge/Velog-00A9D9?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@shimssung/posts)
 
 
